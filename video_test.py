@@ -112,7 +112,7 @@ def generate_video(script_text):
     )
 
 def main():
-    max_videos = 2  # Set the maximum number of videos to generate
+    max_videos = 10 # Set the maximum number of videos to generate
     video_count = 0  # Initialize a counter for the number of videos generated
 
     while video_count < max_videos:
