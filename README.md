@@ -2,6 +2,7 @@
 
 Description of project:
 It automates the process of generating videos by using ai and python. It can shorten the time to create a video by just running the code.
+The code can automately generate 10 videos at a time.
 
 System design
 
