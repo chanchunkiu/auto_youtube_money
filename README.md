@@ -11,7 +11,7 @@ tools used: moviepy, ppyt,s pyttsx3 whisper, Google generative AI
 2. Build a virtual environment
 3. Install libraries used in requirements.txt  #pip install -r requirements.txt
 4. Prepare short videos you would like to use and save them in the video file
-5. Run video_test.py
+5. Run video_final.py
 6. Check the output folder for the generated video
 
 
